@@ -30,7 +30,7 @@ However, having said that, there are a few niche competitors that have a partial
 ## Recommendations
 If I were advising Ginkgo I would advise them to consider building a biology data and machine learning model “app store” from their proprietary datasets. Their datasets could unlock tremendous value for all sorts of new applications in biotechnology companies looking to train niche machine learning models and/or massive large language models to fit their internal efficiency or core product therapeutic / drug discovery goals. 
 
-I believe a Ginkgo App & Data Digital Store would contribute net new revenue in a low friction / low sales investment way given that customers could self service their needs by browsing what datasets and or ml models 
+I believe a Ginkgo App & Data Digital Store would contribute net new revenue in a low friction / low sales investment way given that customers could self service their needs by browsing what datasets and or ml models. They could use a similar revenue share model as Apple whereas they also allow 3rd party publishers to publish biology data or models as well with Ginkgo taking a 30% share of the associated one time or recurring fees for usage. 
 
 ## Sources 
 https://www.technologyreview.com/2021/08/24/1032308/is-ginkgos-synthetic-biology-story-worth-15-billion/
