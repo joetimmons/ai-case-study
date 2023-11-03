@@ -1,10 +1,10 @@
 # TITLE
-Ginkgo Bioworks - At the Intersection of AI and Biology
+**Ginkgo Bioworks - At the Intersection of AI and Biology
 
 ## Overview and Origin
 Ginkgo Bioworks provides an “AI powered” biotechnology platform & services to their customers. Specifically they offer enzyme services, protein services, metabolic engineering services, strain optimization services, & biosecurity 
 The company was founded in 2008 and is based in Boston, Massachusetts. The company was founded by Tom Knight, Jason Kelly, Reshma Shetty, Barry Canton, and Austin Che. 
-The backstory to how Ginkgo was founded was that the fellow MIT graduate co-founders were both bored by job prospects available to them in the economic downturn of 2008 coupled with none of them wanted to pursue a postdoc degree - so Ginkgo was really born out of a lack of alternatives with a desire to do something cool between computation and biology. Grants and awards from government agencies, including the Department of Energy, the National Science Foundation, and the National Institute of Standards and Technology, jump-started Ginkgo in its nascent years.
+<blockquote>The backstory to how Ginkgo was founded was that the fellow MIT graduate co-founders were both bored by job prospects available to them in the economic downturn of 2008 coupled with none of them wanted to pursue a postdoc degree - so Ginkgo was really born out of a lack of alternatives with a desire to do something cool between computation and biology. Grants and awards from government agencies, including the Department of Energy, the National Science Foundation, and the National Institute of Standards and Technology, jump-started Ginkgo in its nascent years.
 As Ginkgo scaled as a private company they raised over $726M in total funding and went public via a SPAC in September 2021 raising another 1.6B. 
 
 ## Business Activities
