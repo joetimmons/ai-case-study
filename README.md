@@ -1,5 +1,5 @@
 # TITLE
-**Ginkgo Bioworks - At the Intersection of AI and Biology
+*Ginkgo Bioworks - At the Intersection of AI and Biology*
 
 ## Overview and Origin
 Ginkgo Bioworks provides an “AI powered” biotechnology platform & services to their customers. Specifically they offer enzyme services, protein services, metabolic engineering services, strain optimization services, & biosecurity 
